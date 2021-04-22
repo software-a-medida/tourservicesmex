@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tourservicesmex.com/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.00</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/ek-balam-yalcoba-santa-rita</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/chichen-itza</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/rio-lagartos</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/others-tours</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/contact-us</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/terms-and-conditions</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tourservicesmex.com/privacy-notice</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+</urlset>
